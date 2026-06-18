@@ -54,6 +54,67 @@ The dataset contains:
 * Pivot Charts
 * Descriptive Statistics
 
-## Key Outcome
+## Key Findings
 
-The project provided insights into revenue performance and customer purchasing behavior while demonstrating practical data cleaning and analytical skills.
+* Revenue generated during the analysis period was $1.26M.
+* A total of 1,200 orders were recorded from 1,189 customers.
+* Instagram generated the highest referral revenue.
+* Chairs, Printers, and Laptops contributed the highest revenue share.
+* Customer retention was extremely low.
+* Delivery performance was below expectations.
+
+## Key Performance Indicators (KPIs)
+* Total Revenue
+* Total Orders
+* Total Customers
+* Average Order Value (AOV)
+* Delivery Rate
+* Retention Rate
+* COGS
+
+ ## Business Insights
+ 
+### Customer Retention
+
+The retention rate was only 0.93%, indicating that most customers made a single purchase and did not return.
+
+### Delivery Performance
+
+The delivery rate stood at 19.25%, suggesting potential challenges in order fulfillment and logistics.
+
+### Referral Sources
+
+Instagram was the strongest-performing referral source and contributed the highest revenue.
+
+### Product Performance
+
+Chairs, Printers, and Laptops generated the largest share of total revenue.
+
+## Recommendations
+* Introduce customer loyalty programs to improve retention.
+* Investigate logistics and fulfillment processes to improve delivery performance.
+* Increase marketing investment in high-performing referral channels.
+* Develop targeted campaigns for repeat customers.
+  
+## Lessons Learned
+
+During dashboard development, I discovered an error in the customer retention rate calculation.
+
+The metric was initially calculated as 1.18%, but after reviewing the DAX measure and validating the customer data, the correct retention rate was determined to be 0.93%.
+
+## This experience reinforced the importance of:
+
+* Validating calculations before reporting insights
+* Cross-checking KPIs against source data
+* Performing quality assurance throughout the analytics process
+
+While creating dashboards is important, ensuring the accuracy of the underlying metrics is equally critical.
+
+
+## Files Included
+
+* Cleaned Dataset
+* EDA Documentation
+* Power BI Dashboard (.pbix)
+* Dashboard Screenshots
+* Project README
